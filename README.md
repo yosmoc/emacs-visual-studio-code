@@ -27,6 +27,12 @@ npm run build:linux
 npm run build:osx
 ```
 
+## Build in docker
+
+```
+./buildindocker.sh
+```
+
 # Issues
 - There may be key bindings that are not enough.
 - It does not fix the key bindings that had been batting (ex. `ctrl+g`).
