@@ -1,5 +1,15 @@
 [
     {
+        "key": "ctrl+z",
+        "command": "undo",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+z",
+        "command": "redo",
+        "when": "editorTextFocus"
+    },
+    {
         "key": "ctrl+/",
         "command": "undo",
         "when": "editorTextFocus"

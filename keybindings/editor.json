@@ -20,6 +20,10 @@
         "command": "workbench.action.closeActiveEditor"
     },
     {
+        "key": "ctrl+x 1",
+        "command": "workbench.action.closeOtherEditors"
+    },
+    {
         "key": "ctrl+x 3",
         "command": "workbench.action.splitEditor"
     },
