@@ -33,6 +33,8 @@ npm run build:osx
 ./buildindocker.sh
 ```
 
+You can find the keybindings.json in ```release``` folder.
+
 # Issues
 - There may be key bindings that are not enough.
 - It does not fix the key bindings that had been batting (ex. `ctrl+g`).
