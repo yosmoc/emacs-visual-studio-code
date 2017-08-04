@@ -4,6 +4,10 @@
         "command": "workbench.action.showCommands"
     },
     {
+        "key": "ctrl+l",
+        "command": "workbench.action.showCommands"
+    },
+    {
         "key": "ctrl+n",
         "command": "showNextParameterHint",
         "when": "editorTextFocus && parameterHintsVisible"
