@@ -14,7 +14,7 @@
     "keybindings/editor.json",
     "keybindings/kill_delete.json",
     "keybindings/pallete_widget.json",
-    "keybindings/query_replase.json",
+    "keybindings/query_replace.json",
     "keybindings/region.json",
     "keybindings/undo.json"
   ],
