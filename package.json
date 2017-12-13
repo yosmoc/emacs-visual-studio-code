@@ -16,7 +16,8 @@
     "keybindings/pallete_widget.json",
     "keybindings/query_replace.json",
     "keybindings/region.json",
-    "keybindings/undo.json"
+    "keybindings/undo.json",
+    "keybindings/navigation.json"
   ],
   "repository": {
     "type": "git",
