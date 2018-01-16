@@ -12,6 +12,10 @@
         "command": "workbench.action.files.saveAll"
     },
     {
+        "key": "ctrl+x ctrl+w",
+        "command": "workbench.action.files.saveAs"
+    },
+    {
         "key": "ctrl+x s",
         "command": "workbench.action.files.saveAs"
     },
@@ -42,9 +46,9 @@
     {
         "key": "ctrl+p",
         "command": "workbench.action.quickOpenNavigatePrevious",
-        "when": "inQuickOpen" 
+        "when": "inQuickOpen"
     },
-    { 
+    {
         "key": "ctrl+n",
         "command": "workbench.action.quickOpenNavigateNext",
         "when": "inQuickOpen"
