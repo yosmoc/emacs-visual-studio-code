@@ -62,11 +62,6 @@
         "command": "workbench.action.findInFiles"
     },
     {
-        "key": "ctrl+.",
-        "command": "editor.action.autoFix",
-        "when": "editorTextFocus && !editorReadonly && supportedCodeAction =~ /(\\s|^)quickfix\\b/"
-    },
-    {
         "key": "ctrl+-",
         "command": "editor.action.commentLine",
         "when": "editorTextFocus"
